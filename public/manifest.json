@@ -1,0 +1,29 @@
+{
+  "name": "EFIR - Бесплатные нейросети",
+  "short_name": "EFIR AI",
+  "description": "Платформа для доступа к GPT-4.1, Gemini, Claude и другим нейросетям",
+  "start_url": "/",
+  "display": "standalone",
+  "theme_color": "#1a1a1a",
+  "background_color": "#000000",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/app-icon.svg",
+      "sizes": "192x192",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "/app-icon.svg",
+      "sizes": "512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ],
+  "categories": ["productivity", "utilities", "education"],
+  "lang": "ru",
+  "scope": "/",
+  "prefer_related_applications": false
+}
+
