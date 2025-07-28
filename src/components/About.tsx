@@ -13,8 +13,8 @@ const About: React.FC = () => {
               </span>
             </h2>
             <p className="text-xl text-gray-300 max-w-3xl mx-auto leading-relaxed">
-              EFIR — это революционная платформа, которая демократизирует доступ к искусственному интеллекту. 
-              Мы объединили лучшие нейросети мира в одном месте, сделав их доступными каждому.
+              EFIR — это революционная платформа, которая объединяет лучшие AI-инструменты для создания веб-приложений, ботов и автоматизации. 
+              От EFIR-WEB для разработки сайтов до EFIR.AI для создания ИИ-агентов — всё в одном экосистеме.
             </p>
           </div>
 
@@ -28,8 +28,8 @@ const About: React.FC = () => {
                   <h3 className="text-2xl font-bold">Наша миссия</h3>
                 </div>
                 <p className="text-gray-300 leading-relaxed">
-                  Сделать передовые технологии искусственного интеллекта доступными для каждого человека на планете. 
-                  Мы верим, что ИИ должен служить всему человечеству, а не только избранным.
+                  Упростить процесс создания веб-приложений, ботов и автоматизации с помощью ИИ. 
+                  EFIR-WEB помогает создавать сайты, а EFIR.AI — разрабатывать умных ботов и агентов для бизнеса.
                 </p>
               </div>
 
@@ -38,11 +38,11 @@ const About: React.FC = () => {
                   <div className="flex items-center justify-center w-16 h-16 bg-gradient-to-r from-green-500 to-teal-600 rounded-xl">
                     <Sparkles className="h-8 w-8 text-white" />
                   </div>
-                  <h3 className="text-2xl font-bold">Беспатентная технология</h3>
+                  <h3 className="text-2xl font-bold">Наши продукты</h3>
                 </div>
                 <p className="text-gray-300 leading-relaxed">
-                  Мы используем открытые и беспатентные технологии, что позволяет нам предоставлять доступ к ИИ 
-                  без ограничений и лицензионных сборов.
+                  <strong>EFIR-WEB:</strong> Создавайте современные веб-приложения с помощью AI. <br/>
+                  <strong>EFIR.AI:</strong> Разрабатывайте чат-ботов, AI-агентов и автоматизируйте бизнес-процессы.
                 </p>
               </div>
             </div>
@@ -85,9 +85,9 @@ const About: React.FC = () => {
               <div className="flex items-center justify-center w-20 h-20 bg-gradient-to-r from-blue-500 to-purple-600 rounded-2xl mx-auto mb-6 group-hover:scale-110 transition-transform duration-300">
                 <Globe className="h-10 w-10 text-white" />
               </div>
-              <h3 className="text-xl font-bold mb-4">Глобальный доступ</h3>
+              <h3 className="text-xl font-bold mb-4">EFIR-WEB</h3>
               <p className="text-gray-400 leading-relaxed">
-                Наша платформа доступна пользователям по всему миру, поддерживает множество языков и работает в любой точке планеты.
+                Мощная платформа для создания веб-приложений с помощью ИИ. Генерация кода, live preview, готовые компоненты и мгновенный деплой.
               </p>
             </div>
 
@@ -95,9 +95,9 @@ const About: React.FC = () => {
               <div className="flex items-center justify-center w-20 h-20 bg-gradient-to-r from-green-500 to-teal-600 rounded-2xl mx-auto mb-6 group-hover:scale-110 transition-transform duration-300">
                 <Code className="h-10 w-10 text-white" />
               </div>
-              <h3 className="text-xl font-bold mb-4">Открытый код</h3>
+              <h3 className="text-xl font-bold mb-4">EFIR.AI</h3>
               <p className="text-gray-400 leading-relaxed">
-                Мы поддерживаем философию открытого кода и прозрачности, делая наши технологии доступными для изучения и улучшения.
+                Платформа для создания ИИ-агентов и чат-ботов. Автоматизация бизнеса, интеграция с API, но-код решения для любых задач.
               </p>
             </div>
 
@@ -105,9 +105,9 @@ const About: React.FC = () => {
               <div className="flex items-center justify-center w-20 h-20 bg-gradient-to-r from-purple-500 to-pink-600 rounded-2xl mx-auto mb-6 group-hover:scale-110 transition-transform duration-300">
                 <Users className="h-10 w-10 text-white" />
               </div>
-              <h3 className="text-xl font-bold mb-4">Сообщество</h3>
+              <h3 className="text-xl font-bold mb-4">AI Chat</h3>
               <p className="text-gray-400 leading-relaxed">
-                Присоединяйтесь к растущему сообществу разработчиков, исследователей и энтузиастов ИИ со всего мира.
+                Общайтесь с различными AI-моделями: GPT-4, Claude, Gemini и другими. Умные ответы и контекстное общение.
               </p>
             </div>
           </div>
