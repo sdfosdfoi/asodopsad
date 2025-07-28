@@ -1,4 +1,9 @@
 User-agent: *
+Disallow:
+
+Sitemap: https://www.gptchatpro.online/sitemap.xml
+
+User-agent: *
 Allow: /
 
 # Sitemap
